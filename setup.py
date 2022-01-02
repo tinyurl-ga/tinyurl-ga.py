@@ -17,14 +17,14 @@ setuptools.setup(
         ]
     },
     packages=packages,
-    name="tinyurl-ga",
+    name="tinyurl-ga.py",
     version="0.0.2",
     author="DMS",
     author_email="masato190411@gmail.com",
     description="This is tinyurl.ga wrapper.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/tuna2134/tinyurl-ga",
+    url="https://github.com/tinyurl-ga/tinyurl-ga",
     install_requires=_requires_from_file('rqs.txt'),
     classifiers=[
         "Programming Language :: Python :: 3.8",
