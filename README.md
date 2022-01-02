@@ -3,7 +3,7 @@
 ## install
 
 ```bash
-pip install git+https://github.com/tuna2134/tinyurl-ga
+pip install git+https://github.com/tinyurl-ga/tinyurl-ga.py
 ```
 
 ## sample
