@@ -24,7 +24,7 @@ setuptools.setup(
     description="This is tinyurl.ga wrapper.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/tinyurl-ga/tinyurl-ga",
+    url="https://github.com/tinyurl-ga/tinyurl-ga.py",
     install_requires=_requires_from_file('rqs.txt'),
     classifiers=[
         "Programming Language :: Python :: 3.8",
